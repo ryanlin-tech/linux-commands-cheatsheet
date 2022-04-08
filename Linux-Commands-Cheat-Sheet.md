@@ -20,6 +20,8 @@ mkdir folder && cd folder
 Move a file or folder to another folder
 ```
 mv /path/to/file.txt /path/to/dest/
+```
+```
 mv /path/to/folder1 /path/to/dest/
 ```
 Move multiple folders
