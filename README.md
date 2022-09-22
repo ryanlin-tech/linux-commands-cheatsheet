@@ -3,6 +3,7 @@
 A compilation of some commonly used Linux commands for beginners (and those of us who often just forget :))
 
 Files & Folders
+
 Some common commands for navigating, moving, deleting & more!
 
 Navigate to a folder
